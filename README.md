@@ -1,4 +1,4 @@
-<h1 align="center"> Página estática com React </h1>
+<h1 align="center"> Gerador de memes com React </h1>
 
 ## 📚 Aprendizados
 
